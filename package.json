@@ -1,0 +1,31 @@
+{
+  "name": "create-deferred.js",
+  "version": "1.0.0",
+  "description": "Create deferred object",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/create-deferred.js.git"
+  },
+  "keywords": [
+    "promise",
+    "deferred",
+    "future"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiogondim/create-deferred.js/issues"
+  },
+  "homepage": "https://github.com/caiogondim/create-deferred.js#readme",
+  "devDependencies": {
+    "jest": "22.4.3",
+    "type-from": "1.0.1"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
