@@ -15,8 +15,8 @@
     "deferred",
     "future"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Caio Gondim",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/caiogondim/create-deferred.js/issues"
   },
